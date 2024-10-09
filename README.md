@@ -4,10 +4,10 @@ A Discord.js bot capable of loading standings and problems from Codeforces, gett
 
 ## Commands
 
-- cf!contests to get future contests.
-- send a profile link to get data about it
-- /problems [contestID] (groupID) to scrap problems
-- /standings [contestID] (groupID) (list) to get users in contest and their status
+- **cf!contests** to get future contests.
+- send a **profile link** to get data about it
+- **/problems** [contestID] (groupID) to scrap problems
+- **/standings** [contestID] (groupID) (list) to get users in contest and their status
 
   > [Required] (optional)
 
@@ -15,7 +15,6 @@ A Discord.js bot capable of loading standings and problems from Codeforces, gett
 
 - [Node.js](https://nodejs.org/) (v16.x or higher)
 - [Discord.js](https://discord.js.org/) (v14.x)
-- Codeforces utility modules (`profile.js`, `contests.js`)
 
 ## Installation
 
