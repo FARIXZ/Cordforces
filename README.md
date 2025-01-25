@@ -39,3 +39,4 @@ A Discord.js bot capable of loading standings and problems from Codeforces, gett
 ## Credits
 
 - [@farixz](https://www.github.com/farixz)
+- [@chatgpt](https://chatgpt.com) (bro helped me so much)
